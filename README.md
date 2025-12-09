@@ -1,12 +1,33 @@
-# React + Vite
+# 🎨 Random Color Generator
+A simple React app that generates a new random color every time the user clicks a button, instantly updating the background and showing the hex code.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 **Live Demo:**  👉 [View App](https://random-color-generator-react-manaswini-sasmals-projects.vercel.app/)
 
-Currently, two official plugins are available:
+## 🧩 Tech Stack Used
+- React 19 (Functional components + Hooks)
+- Vite (fast build tool and dev server)
+- JavaScript (ES6+)
+- Custom CSS for UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Key Features
+- Generates a completely random color using JavaScript
+- Displays the color code (HEX/RGB depending on your implementation)
+- Background instantly updates to the new color
+- User-triggered action (button click)
+- Styled the interface using clean custom CSS
+- Used Vite to set up a lightweight, modern development environment
+- Organized code neatly and followed ESLint rules
 
-## Expanding the ESLint configuration
+## Why This Project Is Useful for Your Portfolio
+- You understand state management in React
+- You can handle DOM updates and user events
+- You know how to structure components cleanly
+- You can build minimal, functional UI from scratch
+- You work with modern React 19 + Vite setup
+- You write clean code with ESLint and React best practices
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Screenshot
+<img width="1362" height="682" alt="image" src="https://github.com/user-attachments/assets/793b92d9-41c1-48f6-95c0-574e4b40db0d" />
+
+**🙋‍♀️ Author**
+
